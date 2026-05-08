@@ -16,6 +16,9 @@ public class Principal {
 		System.out.println("Hola mundo");
 		System.out.println("Tienes un " + 100);
 
+		float resultado = 0.16f;
+		System.out.println("Tu saldo es " + resultado * 20);
+
 		String usuario;
 		String contrasena;
 		boolean estatus;
