@@ -13,6 +13,9 @@ public class Principal {
 
 		Scanner lectura = null;
 
+		System.out.println("Hola mundo");
+		System.out.println("Tienes un " + 100);
+
 		String usuario;
 		String contrasena;
 		boolean estatus;
